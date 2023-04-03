@@ -2,7 +2,7 @@
 
 This repository contains 23 directories that cover different aspects of Java programming language. These directories are arranged in the following order:
 
-1. [Introduction](./01_introduction)
+1. [Introduction](/01_introduction)
 2. [Setup](./02_setup)
 3. [First Steps](./03_first_steps)
 4. [Variables, Datatypes, and Operators](./04_variables_datatypes_and_operators)
